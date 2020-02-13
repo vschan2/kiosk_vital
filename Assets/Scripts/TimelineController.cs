@@ -21,9 +21,9 @@ public class TimelineController : MonoBehaviour
     public void Update()
     {
       // If the image target is detected, play the timeline. Else, stop the timeline.
-      if(imageTarget.GetComponent<DefaultTrackableEventHandler>().mTrackedObjFound)
-        Play();
-      else
-        Stop();
+      // if(imageTarget.GetComponent<DefaultTrackableEventHandler>().mTrackedObjFound)
+      //   Play();
+      // else
+      //   Stop();
     }
 }
