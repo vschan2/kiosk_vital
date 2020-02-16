@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="ARCards-Trent1000" size="10.000000 10.000000" />
+    <ImageTarget name="ARCards-Probe" size="10.000000 10.000000" />
     <ImageTarget name="image_marker_VITAL" size="10.000000 14.163335" />
   </Tracking>
 </QCARConfig>
