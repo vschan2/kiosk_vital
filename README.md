@@ -1,8 +1,8 @@
 # kiosk_vital
-A mini demo for Kiosk VITAL.
+A mini augmented reality (AR) demo for Kiosk VITAL AR.
 
 ## Prerequisite
-Unity 3D Version *2019.2.2f1*
+Unity 3D Version *2019.2*
 
 Vuforia Engine AR *Version 8.6.7*
 
